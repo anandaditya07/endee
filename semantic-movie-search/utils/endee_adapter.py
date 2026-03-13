@@ -98,3 +98,4 @@ class EndeeAdapter:
         if self.is_mock:
             return MockIndex(name)
         return self.client.get_index(name)
+
