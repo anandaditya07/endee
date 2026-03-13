@@ -17,8 +17,8 @@ tests/**/ndd_filter_test
 *.dSYM/
 
 # Sometimes data files are created for tetsing
-data/
-data/*
+# data/
+# data/*
 
 # VS Code directory
 .vscode/
